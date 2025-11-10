@@ -4,7 +4,7 @@
    </a>
 </h1>
 
-<h3 align="left">💻 Full-Stack Developer | AI &  Enthusiast 🇧🇷</h3>
+<h3 align="left">💻 Full-Stack Developer | AI Enthusiast 🇧🇷</h3>
 
 <br/>
 
