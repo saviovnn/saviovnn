@@ -26,7 +26,7 @@
    <h3 >⚙️ Technical Expertise</h3>
    <p align="left">
       <strong>• Front-end:</strong> Building modern and responsive interfaces with <strong>Vue.js</strong> and <strong>React.js</strong>, focusing on component architecture, accessibility, and performance optimization.<br/>
-      <strong>• Back-end:</strong> Developing robust APIs using <strong>Node.js</strong>, <strong>PHP</strong>, and <strong>Python (FastAPI)</strong>.<br/>
+      <strong>• Back-end:</strong> Developing robust APIs using <strong>Node.js</strong>, <strong>PHP</strong>, and <strong>Python</strong>.<br/>
       <strong>• AI/ML:</strong> Exploring <strong>Machine Learning models</strong> and <strong>RAG-based systems</strong> to integrate intelligence into web applications.<br/>
    </p>
 </div>
@@ -49,6 +49,6 @@
 <br/>
 
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=apple,github,git,nodejs,express,python,fastapi,npm,yarn" />
-   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,vite,vue,pinia,nuxtjs,react,nextjs,tailwind" />
+   <img src="https://skillicons.dev/icons?i=apple,github,git,nodejs,express,python,fastapi,npm,yarn,bun" />
+   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,vite,vue,pinia,nuxtjs,react,nextjs,elysia,tailwind" />
 </div>
