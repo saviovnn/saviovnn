@@ -10,7 +10,7 @@
 
 <div align="left">
    <p>
-      I'm <strong>Sávio Vianna</strong>, a Brazilian full-stack engineer with over <strong>1 year of hands-on experience</strong> developing scalable and accessible web applications.  
+      I'm <strong>Sávio Vianna</strong>, a Brazilian full-stack engineer with over <strong>2 year of hands-on experience</strong> developing scalable and accessible web applications.  
       Currently, I work at <strong>Thompson Tecnologia.</strong>
    </p>
 
